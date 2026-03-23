@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "site": "urn:solidary:type:site",
+    "index": "urn:solidary:type:index",
+    "connection": "urn:solidary:type:connection",
+    "site_id": "urn:solidary:term:site_id",
+    "connections": {
+      "@id": "urn:solidary:term:connections",
+      "@container": "@set"
+    },
+    "connected_site": "urn:solidary:term:connected_site"
+  },
+  "@id": "https://jazbogross.github.io/imagetest",
+  "@type": "site",
+  "site_id": "74792553-d8d4-4e51-9c90-7e9401cb6359",
+  "connections": []
+}
